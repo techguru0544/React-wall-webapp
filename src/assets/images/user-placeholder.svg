@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-User_Placeholder">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="User_Placeholder" data-name="User Placeholder" clip-path="url(#clip-User_Placeholder)">
+    <rect width="100" height="100" fill="rgba(255,255,255,0)"/>
+    <g id="Group_11976" data-name="Group 11976">
+      <rect id="Rectangle_2342" data-name="Rectangle 2342" width="100" height="100" fill="#ebebeb"/>
+      <g id="user" transform="translate(13.375 29)">
+        <circle id="Ellipse_23" data-name="Ellipse 23" cx="8.866" cy="8.866" r="8.866" transform="translate(27.828 3)" fill="#d2d2d2"/>
+        <path id="Path_36642" data-name="Path 36642" d="M36.694,150a16.069,16.069,0,0,0-16.069,16.069H52.763A16.069,16.069,0,0,0,36.694,150Z" transform="translate(0 -126.073)" fill="#d2d2d2"/>
+      </g>
+    </g>
+  </g>
+</svg>
